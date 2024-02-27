@@ -1,7 +1,7 @@
 {
   "name": "@dpatt/markdown-to-preact-parser",
   "version": "1.0.0",
-  "description": "Generate a regex from an array of strings to match all of the strings in order, separated by a delimiter.",
+  "description": "Convert markdown content to an array of Preact components.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

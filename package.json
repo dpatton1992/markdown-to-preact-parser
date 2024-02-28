@@ -2,6 +2,10 @@
   "name": "@dpatt/markdown-to-preact-parser",
   "version": "1.0.0",
   "description": "Convert markdown content to an array of Preact components.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpatton1992/markdown-to-preact-parser.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
